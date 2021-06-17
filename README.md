@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pummy Jha</h1>
-<h3 align="center">An IT Sophomore who is interested in learning everything where curiosity meets!</h3>
+<h3 align="center">Pre-Final Year Undergraduate who is interested in learning everything where curiosity meets!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pummy12&label=Profile%20views&color=0e75b6&style=flat" alt="pummy12" /> </p>
 
