@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pummy12" alt="pummy12" /></a> </p>
 
-- 📫 How to reach me **mepummyjha@gmail.com**
+- 📫 How to reach me **mepummyjha@gmail.com**, **iampummyjha@gmail.com**
 
 - ⚡ Fun fact **I love to put forward hilarious jokes !**
 
