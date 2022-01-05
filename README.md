@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pummy Jha</h1>
-<h3 align="center">Pre-Final Year Undergraduate who is interested in learning everything where curiosity meets!</h3>
+<h3 align="center">Penultimate Year IT Undergraduate who is interested in learning everything where curiosity meets!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pummy12&label=Profile%20views&color=0e75b6&style=flat" alt="pummy12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pummy12" alt="pummy12" /></a> </p>
 
-- 📫 How to reach me **mepummyjha@gmail.com**, **iampummyjha@gmail.com**
+- 📫 How to reach me **mepummyjha@gmail.com**, **iampummyjha@gmail.com**, **1906261@kiit.ac.in**
 
 - ⚡ Fun fact **I love to put forward hilarious jokes !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pummy-jha-72097a1ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/pummy-jha-72097a1ab" height="30" width="40" /></a>
+<a href="https://leetcode.com/Pummy12/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="https://leetcode.com/Pummy12/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/pummy-jha-72097a1ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/pummy-jha-72097a1ab" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pummy.jha.5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pummy.jha.5/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/indetermi_nate/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/indetermi_nate/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/pummy_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pummy_12" height="30" width="40" /></a>
