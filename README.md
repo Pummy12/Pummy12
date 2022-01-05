@@ -2,8 +2,6 @@
 <h3 align="center">Penultimate Year IT Undergraduate who is interested in learning everything where curiosity meets!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pummy12&label=Profile%20views&color=0e75b6&style=flat" alt="pummy12" /> </p>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/mepum/Downloads/undraw_code_thinking_re_gka2.svg">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pummy12" alt="pummy12" /></a> </p>
 
 - 📫 How to reach me **mepummyjha@gmail.com**, **iampummyjha@gmail.com**, **1906261@kiit.ac.in**
