@@ -15,7 +15,7 @@
 <a href="https://twitter.com/indetermi_nate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="https://twitter.com/indetermi_nate" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/pummy-jha-72097a1ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pummy-jha-72097a1ab/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pummy.jha.5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pummy.jha.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/indetermi_nate/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/indetermi_nate/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/indetermi_nate/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/indetermi_nate/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/pummy_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pummy_12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/pummyjha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/pummyjha" height="30" width="40" /></a>
 </p>
