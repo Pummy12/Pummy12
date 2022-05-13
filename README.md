@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pummy12&label=Profile%20views&color=0e75b6&style=flat" alt="pummy12" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pummy12" alt="pummy12" /></a> </p>
 
-- 📫 How to reach me **mepummyjha@gmail.com**, **iampummyjha@gmail.com**, **1906261@kiit.ac.in**
+- 📫 How to reach me **iampummyjha@gmail.com**
 
 - ⚡ Fun fact **I love to put forward hilarious jokes !**
 
