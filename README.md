@@ -12,6 +12,8 @@
 
 - 📊 Looking for career prospects in BIG DATA/ ANALYTICS
 
+- 🚀 Work hard, play harder
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://leetcode.com/Pummy12/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="https://leetcode.com/Pummy12/" height="30" width="40" /></a>
