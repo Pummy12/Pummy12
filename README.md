@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pummy Jha </h1>
-<h3 align="center">Penultimate Year IT Undergraduate who is interested in learning everything where curiosity meets!</h3>
+<h3 align="center">Final Year IT Undergraduate who is interested in learning everything where curiosity meets!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pummy12&label=Profile%20views&color=0e75b6&style=flat" alt="pummy12" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pummy12" alt="pummy12" /></a> </p>
